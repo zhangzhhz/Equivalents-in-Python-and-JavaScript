@@ -1,6 +1,6 @@
 Jupyter notebooks for a series of djangotricks.com articles: Equivalents in Python and JavaScript
 
-Python codes are in Python 3.8.
+Python codes are in Python 3.8.2.
 
 Javascript codes are in Node 13.8.0.
 
